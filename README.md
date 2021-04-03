@@ -1,2 +1,2 @@
 # EEE342 Feedback Control Systems 
- Lab Assignment for EEE342 Feedback Control Systems 
+ Lab Assignments for EEE342 Feedback Control Systems 
