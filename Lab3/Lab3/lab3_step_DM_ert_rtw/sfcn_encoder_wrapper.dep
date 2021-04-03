@@ -1,0 +1,14 @@
+sfcn_encoder_wrapper.o: \
+ C:/Users/EE103/Desktop/Lab3-G5/sfcn_encoder_wrapper.c \
+ C:/Users/EE103/Desktop/Lab3-G5/lab3_step_DM_ert_rtw/rtwtypes.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.7/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.7/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.7/hardware/arduino/avr/variants/standard/pins_arduino.h
+
+C:/Users/EE103/Desktop/Lab3-G5/lab3_step_DM_ert_rtw/rtwtypes.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.7/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.7/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2016b/3P.instrset/arduinoide.instrset/arduino-1.6.7/hardware/arduino/avr/variants/standard/pins_arduino.h:
